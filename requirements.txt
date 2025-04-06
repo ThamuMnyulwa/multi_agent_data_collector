@@ -1,0 +1,4 @@
+crewai[tools]>=0.28.7
+firecrawl-py>=1.0.0
+openai>=1.2.0 
+pydantic>=2.0.0

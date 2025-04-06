@@ -5,11 +5,13 @@ description = "Project to create a multi-agent data collector the idea is that t
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "beautifulsoup4>=4.11.0",
     "crewai[tools]>=0.108.0",
     "firecrawl-py>=1.15.0",
     "loguru>=0.7.3",
     "numpy>=2.2.4",
+    "openai>=1.70.0",
     "pandas>=2.2.3",
-    "pydantic>=2.11.2",
+    "pydantic>=2.0.0",
     "requests>=2.32.3",
 ]
