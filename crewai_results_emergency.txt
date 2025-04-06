@@ -1,0 +1,76 @@
+```json
+{
+    "validated_hotels": [
+        {
+            "name": "The Silo Hotel",
+            "url": "https://www.booking.com/hotel/za/the-silo-hotel.html",
+            "address": "Silo Square, V&A Waterfront, Cape Town, South Africa",
+            "quality_score": 10,
+            "flag": null
+        },
+        {
+            "name": "Belmond Mount Nelson Hotel",
+            "url": "https://www.marriott.com/en-us/hotels/cptjw-jw-marriott-hotel-cape-town/overview/",
+            "address": "76 Orange Street, Gardens, Cape Town, South Africa",
+            "quality_score": 10,
+            "flag": null
+        },
+        {
+            "name": "The Table Bay Hotel",
+            "url": "https://www.ritzcarlton.com/en/hotels/africa/cape-town/ritz-carlton-cape-town",
+            "address": "Quay 6, Victoria & Alfred Waterfront, Cape Town, South Africa",
+            "quality_score": 9,
+            "flag": null
+        },
+        {
+            "name": "Cape Grace Hotel",
+            "url": "https://www.hilton.com/en/hotels/cptaphi-hilton-cape-town-city-centre/",
+            "address": "Next to the V&A Waterfront, Cape Town, South Africa",
+            "quality_score": 10,
+            "flag": null
+        },
+        {
+            "name": "One&Only Cape Town",
+            "url": "https://www.ihg.com/intercontinental/hotels/us/en/cape-town/cptha/hoteldetail",
+            "address": "Dock Road, V&A Waterfront, Cape Town, South Africa",
+            "quality_score": 10,
+            "flag": null
+        },
+        {
+            "name": "Ellerman House",
+            "url": null,
+            "address": "180 6th Road, Bantry Bay, Cape Town, South Africa",
+            "quality_score": 9,
+            "flag": "Missing URL"
+        },
+        {
+            "name": "The Twelve Apostles Hotel and Spa",
+            "url": null,
+            "address": "Victoria Road, Camps Bay, Cape Town, South Africa",
+            "quality_score": 9,
+            "flag": "Missing URL"
+        },
+        {
+            "name": "Radisson Blu Waterfront Cape Town",
+            "url": null,
+            "address": "Beach Road, Granger Bay, Cape Town, South Africa",
+            "quality_score": 9,
+            "flag": "Missing URL"
+        },
+        {
+            "name": "The Westin Cape Town",
+            "url": null,
+            "address": "Convention Square, Lower Long Street, Cape Town, South Africa",
+            "quality_score": 8,
+            "flag": "Missing URL"
+        },
+        {
+            "name": "Taj Cape Town",
+            "url": null,
+            "address": "Wale Street, Cape Town, South Africa",
+            "quality_score": 9,
+            "flag": "Missing URL"
+        }
+    ]
+}
+```

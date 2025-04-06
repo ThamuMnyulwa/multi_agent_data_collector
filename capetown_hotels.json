@@ -1,0 +1,72 @@
+[
+  {
+    "name": "The Silo Hotel",
+    "address": "Not Available",
+    "price": "Not Available",
+    "description": "Not Available",
+    "url": "https://www.booking.com/hotel/za/the-silo-hotel.html"
+  },
+  {
+    "name": "Mount Nelson, A Belmond Hotel, Cape Town",
+    "address": "76 Orange Street, Gardens, 8001 Cape Town, South Africa",
+    "price": "$1,018.14",
+    "description": "Nestled on a lush garden estate in the heart of the city, this luxurious hotel is an icon of Cape Town and committed to excellent 5-star quality and service. Just a stone’s throw from Company Gardens, the Mount Nelson, A Belmond Hotel, Cape Town is a tranquil oasis in the bustling city center. Enjoy the hotel’s famous afternoon tea on the terrace or have a swim in one of the pools.",
+    "url": "https://www.booking.com/hotel/za/belmond-mount-nelson.html"
+  },
+  {
+    "name": "Labotessa Luxury Boutique Hotel",
+    "address": "Cape Town CBD, Cape Town",
+    "price": "$594",
+    "description": "Exceptional hotel with a score of 9.6 based on 167 reviews, offering a private suite with breakfast included.",
+    "url": "https://www.booking.com/hotel/za/the-table-bay.html"
+  },
+  {
+    "name": "Cape Grace, A Fairmont Managed Hotel",
+    "address": "West Quay Victoria & Alfred Waterfront, V&A Waterfront, 8002 Cape Town, South Africa",
+    "price": "$914.39",
+    "description": "Cape Grace, A Fairmont Managed Hotel is a timeless presence at the V&A Waterfront, offering rooms with views of the harbor and Table Mountain. The hotel features a warm check-in process, personalized room experiences, a serene spa, and exquisite dining options.",
+    "url": "https://www.booking.com/hotel/za/cape-grace.html"
+  },
+  {
+    "name": "One&Only Cape Town",
+    "address": "Dock Road, Victoria & Alfred Waterfront, V&A Waterfront, 8001 Cape Town, South Africa",
+    "price": "$1,138.14",
+    "description": "Located on the V&A Waterfront, this luxury hotel features panoramic views of Table Mountain. It has an outdoor infinity pool, a sun-lounger terrace and a spa. Free Wi-Fi is available. One&Only Cape Town offers elegant rooms and suites with a private balcony. Rooms also have a tea/coffee maker and a TV with a DVD player. Each marble bathroom features a rain shower and a separate bath.",
+    "url": "https://www.booking.com/hotel/za/one-only-cape-town.html"
+  },
+  {
+    "name": "Ellerman House",
+    "address": "180 Kloof Road, Bantry Bay, Bantry Bay, 8005 Cape Town, South Africa",
+    "price": "$995.61",
+    "description": "Located in Bantry Bay, perched on the slopes of Lion’s Head lies the elegant mansion Ellerman House. Featuring panoramic views of the Atlantic Ocean, it features a lush garden, outdoor swimming pool and offers a complimentary airport shuttle.",
+    "url": "https://www.booking.com/hotel/za/ellerman-house.html"
+  },
+  {
+    "name": "The Twelve Apostles and Spa",
+    "address": "Cape Town, South Africa",
+    "price": "$300",
+    "description": "A luxurious hotel offering stunning views of the Twelve Apostles mountain range and the Atlantic Ocean.",
+    "url": "https://www.booking.com/hotel/za/the-twelve-apostles-and-spa.html"
+  },
+  {
+    "name": "Radisson Blu Waterfront Cape Town",
+    "address": "Cape Town, South Africa",
+    "price": "Not Available",
+    "description": "Page Not Found",
+    "url": "https://www.booking.com/hotel/za/radisson-blu-waterfront-cape-town.html"
+  },
+  {
+    "name": "The Westin Cape Town",
+    "address": "Convention Square, Lower Long Street, Cape Town, 8001, South Africa",
+    "price": "R2,500",
+    "description": "The Westin Cape Town offers luxurious accommodations with stunning views of the city and Table Mountain.",
+    "url": "https://www.booking.com/hotel/za/the-westin-cape-town.html"
+  },
+  {
+    "name": "Taj Cape Town",
+    "address": "1 Wale Street, Cape Town CBD, 8001 Cape Town, South Africa",
+    "price": "From $282",
+    "description": "Located in the heart of Cape Town, Taj Cape Town is within walking distance of many tourist attractions and businesses. Hotel guests can enjoy free WiFi, access to the Wellness Circle. Most rooms and suites have a balcony, while all of them are elegantly designed with classical furnishings. All air-conditioned accommodations has a flat-screen TV and the marble bathroom includes a rainshower and large bath tub.",
+    "url": "https://www.booking.com/hotel/za/taj-cape-town.html"
+  }
+]
